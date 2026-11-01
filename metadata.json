@@ -1,0 +1,10 @@
+{
+  "name": "Integrational Compute Repository (ICR)",
+  "description": "High-performance sovereign computing environment powered by automated code injunctions, virtual container nodes, post-quantum cryptographic verifiers, and multi-protocol mesh routing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
